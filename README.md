@@ -10,7 +10,8 @@ Creación de un sitio dinamico - con la base de datos - Larabel
 
 5-En /resources/views/ creamos cada una de las pantallas: post.blade.php / posts.blade.php .
 
-6- 
+6- Añadi todos los estilos.
+
 
 
 
