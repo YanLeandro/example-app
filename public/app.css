@@ -1,20 +1,24 @@
 body{
-    background:whitesmoke ;
-    color: black;
+    background:rgb(223, 221, 194) ;
+    color: rgb(20, 20, 20);
     max-width: 600px;
-    margin: auto;
+    margin-top: 3%;
+    margin-left: 23%;
+    border-radius: 2%;
     font-family: sans-serif;
+    padding: 2%;
+    color: black;
 
 }
 
 p{
-    line-height: 1.6;
+    line-height: 2.6;
 }
 
 article + article {
     margin-top: 3rem;
     padding-top: 3rems;
-    border-top: 4px solid #c5c5c5;
+    border-top: 4px solid #030303;
     border-radius: 8%;
 
 }
