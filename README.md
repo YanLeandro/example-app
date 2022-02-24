@@ -18,6 +18,7 @@ Creación de un sitio dinamico - con la base de datos - Larabel
 ![Captura de pantalla 2022-02-24 082246](https://user-images.githubusercontent.com/91055703/155477540-a631ec55-8c36-4e81-9de6-cbfaa89fb46d.png)
 ![Captura de pantalla 2022-02-24 082309](https://user-images.githubusercontent.com/91055703/155477541-5e26ec88-c334-4e5c-a1f4-1a65b8fb10c7.png)
 
+![Captura de pantalla 2022-02-24 101113](https://user-images.githubusercontent.com/91055703/155494139-8ccd726e-6d88-4794-be33-71748ca0ad74.png)
 
 
 
